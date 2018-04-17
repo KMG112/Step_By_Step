@@ -1,0 +1,21 @@
+// comma seperate
+// make box appear where window is
+	// strip code. just text
+	// bullet points are causing a problem
+	// elipsies seperate
+	// check length of string
+	// check if space before
+	// no numbers before
+	// if less than certain number of char then concat
+
+
+	// exit by clicking outside box
+	// be able to navigate with arrows/ enter bar esc etc...
+
+// phase 2
+// to upvote a sentence as true you must type it out
+
+I was going through twitter one day after I had once again failed to read the 
+interesting article. My mind started to wander after a few sentences, and I 
+felt like shit knowing that I was doing this dumb thing, and waisting my time
+reading dumbed down versions of the truth. For hours I am told. This seemed weird to me. Why is it that I can read all this gobldygook for untold amounts of time, but as soon as something interesting comes by I am as useless as a table with no legs. So the thought struck me, why dont I twitterfy articles. WHy dont I break down these articles, put them in boxes and try to read them one at a time, rather than chip away at this insermountable.. mountain.. of text. So I built this extention. Turns out, it works. Prepare to get smarter.

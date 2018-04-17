@@ -1,0 +1,17 @@
+{
+  "name": "Step By Step",
+  "description": "Read things, Step By Step",
+  "version": "1.0",
+  "permissions": ["contextMenus","tabs"],
+  "background": {
+    "persistent": false,
+    "scripts": ["sample.js"]
+  },
+  "content_scripts":[{
+      "matches": ["<all_urls>"],
+      "js": ["myScript.js"],
+      "css": ["ext.css"],
+        "run_at": "document_end"
+    }],
+  "manifest_version": 2
+}
